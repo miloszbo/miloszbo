@@ -15,6 +15,7 @@ Also familiar with:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cmake](https://img.shields.io/badge/Cmake-%93126112.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 
 <!--
